@@ -1,4 +1,4 @@
-## 안녕하세요 👋
+## Hello 👋
 
 <!--
 **Jinu86/Jinu86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
