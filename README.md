@@ -1,5 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&color=auto&text=Good%20%20to%20see%20you&textBg=false&fontAlignY=50&animation=fadeIn&section=header&fontColor=FFE880&fontSize=75)
-## Good to see you🤗
+<div align="center">
+
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:D070FB,100:D09AFF&section=header&reversal=false&textBg=false" width="100%"/>
+</div>
+<br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=50&pause=1000&color=D070FB&center=true&width=600&height=90&lines=Hello+world%21" alt="Typing SVG" />
+</a>
+<br>
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient)
+
 - 📝 I regularly write articles on [https://velog.io/@adrian8465/posts](https://velog.io/@adrian8465/posts)
 
 - 📫 How to reach me **jinu0806@korea.ac.kr**
