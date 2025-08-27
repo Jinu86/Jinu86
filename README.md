@@ -6,7 +6,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient)
+
 
 - 📝 I regularly write articles on [https://velog.io/@adrian8465/posts](https://velog.io/@adrian8465/posts)
 
