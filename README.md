@@ -3,11 +3,7 @@
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:D070FB,100:D09AFF&section=header&reversal=false&textBg=false" width="100%"/>
 </div>
-<br>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=50&pause=1000&color=D070FB&center=true&lines=Hello+world!" alt="Typing SVG" />
-</a>
-<br>
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient)
